@@ -1,0 +1,8 @@
+Team Formation:
+
+Seth Pavlicek - Team Leader
+Michael Abolencia - Frontend member
+Alexander Bjeldanes - Frontend & Backend member
+Angel Antunez - Frontend & Github master
+Igor Tsygankov - AWS & Documentation
+Armando Partida - Backend & Database member
