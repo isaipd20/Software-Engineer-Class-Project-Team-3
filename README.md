@@ -16,7 +16,7 @@ Team Formation:
 
 | Igor Tsygankov - AWS & Documentation - Github: igortsygankov |
 
-| Armando Partida - Backend & Database member - Github: isaipd20 |
+| Armando Partida - Backend & Database master - Github: isaipd20 |
 
 All credits to the team members with the creation of their respective parts.
 NOT for distribution or edition, class project.
