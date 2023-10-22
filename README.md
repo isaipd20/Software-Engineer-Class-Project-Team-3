@@ -40,12 +40,12 @@ The page is created to be effective and simple so the users can understand all o
 - Tools/Technologies: VS code, Intellij, git, postman
 
 # 👥 Authors
-- Team leader: [Seth Pavlicek] (https://github.com/SethPavlicek)
-- Frontend member: [Michael Abolencia] (https://github.com/anavailableuser)
-- Frontend & Database member: [Alexander Bjeldanes] (https://github.com/zanderly)
-- Frontend & Github master: [Angel Antunez] (https://github.com/alex19992020)
-- AWS & Documentation: [Igor Tsygankov] (https://github.com/igortsygankov)
-- Backend & Database master: [Armando Partida] (https://github.com/isaipd20)
+- Team leader: [@Seth Pavlicek](https://github.com/SethPavlicek)
+- Frontend member: [@Michael Abolencia](https://github.com/anavailableuser)
+- Frontend & Database member: [@Alexander Bjeldanes](https://github.com/zanderly)
+- Frontend & Github master: [@Angel Antunez](https://github.com/alex19992020)
+- AWS & Documentation: [@Igor Tsygankov](https://github.com/igortsygankov)
+- Backend & Database master: [@Armando Partida](https://github.com/isaipd20)
 
 # Disclosure
 All credits to the team members with the creation of their respective parts.
